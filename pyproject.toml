@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "versionamento-poetry"
+name = "versionamento_projetos"
 version = "0.1.0"
 description = ""
 authors = ["JeffersonMagalhaes <jefferson.raimundomagalhaes@gmail.com>"]
